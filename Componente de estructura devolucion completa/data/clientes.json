@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jenniffer",
+    "apellido": "González",
+    "email": "jgonzalez@unemi.edu.ec",
+    "telefono": "0980221536",
+    "ciudad": "Guayaquil"
+  },
+  {
+    "id": 2,
+    "nombre": "Alex",
+    "apellido": "Burgos",
+    "email": "aburgos@unemi.edu.ec",
+    "telefono": "0926535952",
+    "ciudad": "Guayaquil"
+  },
+  {
+    "id": 3,
+    "nombre": "Noelia",
+    "apellido": "Teran",
+    "email": "nteran@unemi.edu.ec",
+    "telefono": "0124566674",
+    "ciudad": "Milagro"
+  }
+]
